@@ -1,3 +1,6 @@
+# networks:
+#     websnet:
+
 services:
     witnesshost:
         container_name: witnesshost
